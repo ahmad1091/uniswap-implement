@@ -1,0 +1,26 @@
+{
+  "name": "uniswap-implement",
+  "version": "1.0.0",
+  "description": "implement Uniswap DeFi, SDK and solidity contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad1091/uniswap-implement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmad1091/uniswap-implement/issues"
+  },
+  "homepage": "https://github.com/ahmad1091/uniswap-implement#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.5",
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^5.0.32",
+    "web3": "^1.3.4"
+  }
+}
